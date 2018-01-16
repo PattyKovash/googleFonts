@@ -1,0 +1,19 @@
+{
+  "name": "google_fonts_presentation",
+  "version": "1.0.0",
+  "description": "Google Fonts Presentation for HRR28 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PattyKovash/googleFonts.git"
+  },
+  "author": "Patty Kovash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PattyKovash/googleFonts/issues"
+  },
+  "homepage": "https://github.com/PattyKovash/googleFonts#readme"
+}
